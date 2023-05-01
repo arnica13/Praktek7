@@ -1,0 +1,2 @@
+# Praktek7
+KONEKSI PHP DENGAN MySQL
